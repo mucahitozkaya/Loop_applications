@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon May  3 19:38:44 2021
-
-@author: hpp
-"""
 #%% Tahmin
 import random
 
